@@ -12,7 +12,7 @@
   * Comments in the source are written in Korean, so if necessary, they should be translated directly.
 
 
-# Project 1 - C style design pattern
+# Project 1 - C++(Cpp) style design pattern
   싱글톤 패턴이란?
   최초 한번만 메모리를 할당하고 인스턴스를 만들어 사용하는 디자인 패턴이다.
  
