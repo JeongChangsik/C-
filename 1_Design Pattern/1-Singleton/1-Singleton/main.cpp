@@ -9,6 +9,7 @@ int main()
 	Singleton &a = Singleton::instance();
 	a.increaseInt();	// nInt : 0 -> 5
 	a.printInt();
+
 	Singleton &b = Singleton::instance();
 	b.increaseInt();	// nInt : 5 -> 10
 	a.printInt();
